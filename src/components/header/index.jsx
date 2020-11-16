@@ -59,6 +59,18 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               </a>
             </li>
           )}
+          {linkedin && (
+            <li className={classes.item}>
+              <a
+                className={classes.link}
+                href={
+                  'https://drive.google.com/file/d/1chk4ZAXZdIQZFexMPjKcmv_nQ5T6UWMp/view?usp=sharing'
+                }
+              >
+                <b>Resume</b>
+              </a>
+            </li>
+          )}
           {!noBlog && (
             <li className={classes.item}>
               <Link className={classes.link} to="/blog">

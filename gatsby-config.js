@@ -1,58 +1,74 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://yusufvanwala.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Yusuf Vanwala',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Yusuf Vanwala | Aspiring SWE/SDE`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: 'Aspiring Software Engineer',
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@YusufVanwala`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/vanyusuf1`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/yusufvan/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I am an IT student currently in the final year of BE program, with well-cultivated knowledge in Web Development, App Development, Data Structures and Algorithms. I look forward to working in a challenging environment aimed at increasing my problem-solving skills and to utilize them for achieving the target and developing the best performance of the organization.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'yLurrn 2.0 Prototype',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'This is a simple product manager application built off Django (including the Django REST Framework for API CRUD operations) and React.',
+        link: 'https://github.com/vanyusuf1/yLurrn-2.0-Prototype',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Excerpt Extractor',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'A JS script to extract words/sentences/nouns from a piece of excerpt with advanced operations',
+        link: 'https://github.com/vanyusuf1/Excerpt-Extractor',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Hyper Tee Mart',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'The website displays a wide range of clothing products. One stop solution for buying your favourite products.',
+        link: 'https://github.com/vanyusuf1/HyperTEEMart',
+      },
+      {
+        name: 'CRUD-RESTFul-API-development(springboot)',
+        description: 'Built a REST API service using spring dependencies.',
+        link: 'https://github.com/vanyusuf1/CRUD-RESTFul-API-development',
+      },
+      {
+        name: 'Controlled Conduct Employee System',
+        description: 'Website to manage employee records.',
+        link: 'https://github.com/vanyusuf1/Controlled-Conduct-Employee-System',
+      },
+      {
+        name: 'Analytical Webmapping',
+        description:
+          'Created a Leaflet web map with Python and the Folium library.',
+        link: 'https://github.com/vanyusuf1/Analytical-Webmapping',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'JP MORGAN CHASE',
+        description: 'SWE Virtual Experience, May 2020 - June 2020',
+        link: 'https://www.jpmorganchase.com/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'EngineersConnect',
+        description: 'Full-Stack Intern, May 2020 - June 2020',
+        link: 'https://engineersconnect.com/',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Stackzeal',
+        description: 'Full-Stack Intern, Feb 2020 - June 2017',
+        link: 'https://www.stackzeal.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,7 +76,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), Node.js, Express.js, React, Django, Spring Boot, PHP',
       },
       {
         name: 'Databases',
@@ -68,8 +84,7 @@ module.exports = {
       },
       {
         name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+        description: 'Postman, ROBO3T, API design',
       },
     ],
   },
