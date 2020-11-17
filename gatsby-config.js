@@ -67,8 +67,13 @@ module.exports = {
       },
       {
         name: 'Stackzeal',
-        description: 'Full-Stack Intern, Feb 2020 - June 2017',
+        description: 'Full-Stack Intern, Feb 2020 - June 2020',
         link: 'https://www.stackzeal.com/',
+      },
+      {
+        name: 'BSNL',
+        description: 'Telecom Trainee, Jan 2019 - Jan 2019',
+        link: 'https://www.bsnl.co.in/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
