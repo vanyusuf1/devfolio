@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Yusuf Vanwala',
     // Main Site Title
-    title: `Yusuf Vanwala | Aspiring SWE/SDE`,
+    title: `Yusuf Vanwala | Problem Solver`,
     // Description that goes under your name in main bio
-    description: 'Aspiring Software Engineer',
+    description: 'Problem Solver & Aspiring Software Engineer',
     // Optional: Twitter account handle
     author: `@YusufVanwala`,
     // Optional: Github account URL
@@ -18,6 +18,18 @@ module.exports = {
     about: `I am an IT student currently in the final year of BE program, with well-cultivated knowledge in Web Development, App Development, Data Structures and Algorithms. I look forward to working in a challenging environment aimed at increasing my problem-solving skills and to utilize them for achieving the target and developing the best performance of the organization.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
+      {
+        name: 'clinikkHealthcareTV',
+        description:
+          'A video streaming service which helps users/subscribers get access to rich health-related content.',
+        link: 'https://github.com/vanyusuf1/clinikkHealthcareTV',
+      },
+      {
+        name: 'Konfhub Conference API Tweaking',
+        description:
+          'An API task (which provides the list of upcoming technical conferences) tweaker program written in python.',
+        link: 'https://github.com/vanyusuf1/Konfhub-Conference-API-Tweaking',
+      },
       {
         name: 'yLurrn 2.0 Prototype',
         description:
