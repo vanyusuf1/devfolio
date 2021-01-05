@@ -98,7 +98,7 @@ module.exports = {
       {
         name: 'Problem Solving',
         description:
-          'Data Structures, Design and Analysis of Algorithm, OOPS',
+          'Data Structures, Design and Analysis of Algorithms, OOPS',
       },
       {
         name: 'Programming',
