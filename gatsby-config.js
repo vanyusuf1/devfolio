@@ -106,9 +106,9 @@ module.exports = {
           'JavaScript (ES6+), Python, Cpp, Java, PHP, UNIX/LINUX Shell',
       },
       {
-        name: 'Technolgies',
+        name: 'Technologies',
         description:
-          'Node.js, Express.js, React, Django, Spring Boot, PHP, Amazon Web Services(AWS)',
+          'Node.js, Express.js, React, Django, Spring Boot, Codeigniter(B), Amazon Web Services(AWS)',
       },
       {
         name: 'Databases',
