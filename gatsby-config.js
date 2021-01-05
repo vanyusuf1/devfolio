@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/yusufvan/`,
     // Content of the About Me section
-    about: `I am an IT student currently in the final year of BE program, with well-cultivated knowledge in Web Development, App Development, Data Structures and Algorithms. I look forward to working in a challenging environment aimed at increasing my problem-solving skills and to utilize them for achieving the target and developing the best performance of the organization.`,
+    about: `I am an IT student currently in the final year of BE program. Algorithmic Problems fascinates me. I am giving my time to development and problem-solving skills(cpp). I never feel Challenges are tiresome.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
