@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Yusuf Vanwala | Problem Solver`,
     // Description that goes under your name in main bio
-    description: 'Problem Solver & Aspiring Software Engineer',
+    description: 'Software Engineer Intern | Problem Solver',
     // Optional: Twitter account handle
     author: `@YusufVanwala`,
     // Optional: Github account URL
@@ -68,8 +68,13 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'GrowthPal',
+        description: 'Software Engineer Intern, Dec 2020 - Present',
+        link: 'https://www.jpmorganchase.com/',
+      },
+      {
         name: 'JP MORGAN CHASE',
-        description: 'SWE Virtual Experience, May 2020 - June 2020',
+        description: 'SWE Virtual Experience, A WEEK Programme',
         link: 'https://www.jpmorganchase.com/',
       },
       {
@@ -91,9 +96,14 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Programming',
         description:
-          'JavaScript (ES6+), Node.js, Express.js, React, Django, Spring Boot, PHP',
+          'JavaScript (ES6+), Python, Cpp, Java, PHP, UNIX/LINUX Shell',
+      },
+      {
+        name: 'Technolgies',
+        description:
+          'Node.js, Express.js, React, Django, Spring Boot, PHP, Amazon Web Services(AWS)',
       },
       {
         name: 'Databases',
@@ -101,7 +111,7 @@ module.exports = {
       },
       {
         name: 'Other',
-        description: 'Postman, ROBO3T, API design',
+        description: 'API design',
       },
     ],
   },
