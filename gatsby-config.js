@@ -96,6 +96,11 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
+        name: 'Problem Solving',
+        description:
+          'Data Structures, Design and Analysis of Algorithm, OOPS',
+      },
+      {
         name: 'Programming',
         description:
           'JavaScript (ES6+), Python, Cpp, Java, PHP, UNIX/LINUX Shell',
